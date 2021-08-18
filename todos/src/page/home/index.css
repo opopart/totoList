@@ -1,0 +1,7 @@
+.tabsContainer {
+  width: 500px;
+  height: 500px;
+  padding: 5px;
+  box-shadow: 0 0 5px #888888;
+  margin: 40px auto;
+}
